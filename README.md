@@ -13,3 +13,5 @@ https://www.nature.com/articles/s41588-025-02321-z
 its the broad so ive been vindicated that ive always been good enough for this program, this whole entire chaos
 
 that is 100% what im going to be working on, not the only thing, im going to be a leader in this area: rapid REAL TIME classification of things, many things, as data is coming off the sequencer bc now im PISSED
+
+and btw, btw, that is the advantage of changing instutitions, there may be an advantage of sitting at the same place doing the same thing for the past 8 yrs, but theres a better advantage to changing institutions, i learned and relearned so much from all of these places i worked at. way better than working at the same place for the past 8 yrs.
