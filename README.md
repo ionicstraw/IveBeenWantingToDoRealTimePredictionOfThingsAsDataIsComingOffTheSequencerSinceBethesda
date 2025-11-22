@@ -7,3 +7,5 @@ so that MARIN paper, they're doing real time classification every ~10 mins of se
 ive been fking talking about this in my personal statement for YEARS
 
 now it looks like im trying to copy them, but its been my fking idea since bethesda >:(
+
+https://www.nature.com/articles/s41588-025-02321-z
