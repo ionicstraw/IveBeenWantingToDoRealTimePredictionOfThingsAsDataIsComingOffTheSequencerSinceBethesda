@@ -21,3 +21,5 @@ ok so i learned about this, in general, last yr, wont say where but
 https://en.wikipedia.org/wiki/Coreset this is important for the title of this repos for streaming algorithms, other things too
 
 u know this stuff doesnt exist yett, i mean maybe it does but i dunno, but i want to use coresets
+
+i asked chatgpt where i rank with this, not other students, but labs around the world, it said top 5%-10%
